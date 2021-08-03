@@ -28,3 +28,7 @@ In order to compile code and flash it to the ROM of the La Fortuna you will need
 12. Open Powershell.
 13. Switch on your La Fortuna and then press reset button (top left).
 14. Run `make` command in Powershell terminal.
+
+## Data Sheet
+
+The data sheet for the ATMEL AT90USB1286 microprocessor is [here](https://www.microchip.com/en-us/product/AT90USB1286#document-table).
